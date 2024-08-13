@@ -22,7 +22,7 @@ The **Bern AI in Radiotherapy Symposium** aims to foster a collaborative environ
 
 ## Contact the Organizers
 
-To contact the organizers, please reach out to [Amith](/speakers/amith_kamath), [Robert](/speakers/robert_poel) or [Dr. Mauricio Reyes](/speakers/mauricio_reyes).
+To contact the organizers, please reach out to [Amith](/_speakers/amith_kamath), [Robert](/_speakers/robert_poel) or [Dr. Mauricio Reyes](/_speakers/mauricio_reyes).
 
 <!---
 ## Sponsors
