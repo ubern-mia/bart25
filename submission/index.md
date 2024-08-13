@@ -8,7 +8,7 @@ Acceptance and selection of orals and posters will be based on how well it match
 
 ## Submission
 
-Abstract submissions are due February 10th, AoE ([Click here to go to CMT](https://cmt3.research.microsoft.com/BART25))
+Abstract submissions are due February 1st, AoE ([Click here to go to CMT](https://cmt3.research.microsoft.com/BART25))
 
 Authors will be notified.
 
@@ -18,4 +18,4 @@ Abstracts are strictly one page long (a second page may only contain the referen
 
 ## Presentation Format
 
-Authors of accepted abstracts are please requested to email a 4 minute video describing their work to the organizers (Amith, Robert and Prof. Dr. Reyes) by the 15th of March, 2025. Please reach out to the organizers for any questions about this.
+Authors of accepted abstracts are please requested to email a 4 minute video describing their work to the organizers (Amith, Robert and Prof. Dr. Reyes) by the 28th of February, 2025. Please reach out to the organizers for any questions about this.
