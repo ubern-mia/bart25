@@ -1,7 +1,7 @@
 title: Bern AI in RadioTherapy Symposium (BART)
 preposition: ""
 description: >-
-  BART, at the University of Bern, March 2025.
+  BART, at the University of Bern, March 14th 2025.
 baseurl: "/bart25" # the subpath of your site, e.g. /blog
 url: "https://ubern-mia.github.io/bart25" # the base hostname & protocol for your site, e.g. https://example.com
 
@@ -88,7 +88,7 @@ conference:
 
   # Live indications
   live:
-    date: 24.03.2023
+    date: 14.03.2025
     timezone: GMT+1
     stop: 480 # in minutes
     streaming:

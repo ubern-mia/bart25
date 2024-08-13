@@ -1,9 +1,9 @@
 days:
   - name: Friday
     abbr: Fr
-    date: 2025-03-21
+    date: 2025-03-14
     rooms:
-      - name: Kuppelraum
+      - name: Horsaal
         talks:
           - name: Opening and Registration
             time_start: "09:00"

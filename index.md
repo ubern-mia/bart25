@@ -6,7 +6,7 @@ layout: home
 
 ## Overview
 
-Bern AI in RadioTherapy (BART) is a one-day meeting (in March 2025), aims to bring researchers together in the radiation oncology, medical physics and the AI engineering community. Our hope and objective is to attempt to update ourselves in the current state of the art and discuss upcoming trends breakthroughs in this field, so we foster better interaction with each other. 
+Bern AI in RadioTherapy (BART) is a one-day meeting on the 14th of March 2025, aiming to bring researchers together in the radiation oncology, medical physics and the AI engineering community. Our hope and objective is to attempt to update ourselves in the current state of the art and discuss upcoming trends breakthroughs in this field, so we foster better interaction with each other. 
 
 This is an in-person event, with an emphasis on accessibility to early-career researchers and folks who are new to this and interested to get involved in this field. To facilitate this, we had a series of invited talks from all three major stakeholders: industry, academia, and clinics, to give an overview of recent advances, challenges, and efforts for sharing insights.
 
@@ -22,7 +22,7 @@ The **Bern AI in Radiotherapy Symposium** aims to foster a collaborative environ
 
 ## Contact the Organizers
 
-To contact the organizers, please reach out to [Amith](/speakers/amith_kamath) or [Dr. Mauricio Reyes](/speakers/mauricio_reyes).
+To contact the organizers, please reach out to [Amith](/speakers/amith_kamath), [Robert](/speakers/robert_poel) or [Dr. Mauricio Reyes](/speakers/mauricio_reyes).
 
 <!---
 ## Sponsors
