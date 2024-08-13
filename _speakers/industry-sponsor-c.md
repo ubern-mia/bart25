@@ -7,6 +7,6 @@ links:
     absolute_url: linkedin
 ---
 
-<img src="/assets/images/unknown-rt.jpeg" alt="Industry Sponsor C" width="200"/>
+<img src="/bart25/assets/images/unknown-rt.jpeg" alt="Industry Sponsor C" width="200"/>
 
 Industry Sponsor C - biosketch.

@@ -7,7 +7,7 @@ links:
     absolute_url: https://www.artorg.unibe.ch/research/mia/group_members/members/poel_robert/index_eng.html
 ---
 
-<img src="/assets/images/unknown-rt.jpeg" alt="Robert Poel" width="200"/>
+<img src="/bart25/assets/images/unknown-rt.jpeg" alt="Robert Poel" width="200"/>
 
 Robert Poel - biosketch.
 
