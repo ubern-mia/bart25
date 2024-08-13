@@ -2,7 +2,7 @@
 name: Horsaal
 ---
 
-<img src="/2023/assets/images/horsaal.jpeg" alt="Horsaal" width="400"/>
+<img src="/2023/assets/images/horsaal.jpg" alt="Horsaal" width="400"/>
 
 Our symposium is hosted at the Horsaal (S 003) at the UniS building at the University of Bern.
 
