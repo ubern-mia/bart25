@@ -1,8 +1,7 @@
 ---
-name: Closing, Awards, Networking and Apero
+name: Closing, Networking and Apero
 speakers:
   - Amith Kamath
-  - Mauricio Reyes
   - Robert Poel
 categories:
   - Information
