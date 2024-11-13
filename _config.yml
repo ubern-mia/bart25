@@ -68,8 +68,6 @@ conference:
         relative_url: /talks/
       - name: Speakers
         relative_url: /speakers/
-      - name: Submission
-        relative_url: /submission/
       - name: Location
         relative_url: /location/
 
@@ -121,8 +119,6 @@ conference:
         color: warning
       - name: Industry
         color: secondary
-      - name: Student
-        color: primary
       - name: Panel
         color: success
 

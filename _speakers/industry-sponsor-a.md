@@ -1,12 +1,12 @@
 ---
 name: Industry A
 first_name: Industry
-last_name: Sponsor A
+last_name: Speaker A
 links:
-  - name: Industry Sponsor A
+  - name: Industry Speaker A
     absolute_url: linkedin
 ---
 
-<img src="/bart25/assets/images/unknown-rt.jpeg" alt="Industry Sponsor A" width="200"/>
+<img src="/bart25/assets/images/unknown-rt.jpeg" alt="Industry Speaker A" width="200"/>
 
-Industry Sponsor A - biosketch.
+Industry Speaker A - biosketch.
