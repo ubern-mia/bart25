@@ -4,6 +4,8 @@ layout: home
 
 # Bern AI in RadioTherapy
 
+<img src="/bart25/assets/images/bart-logo.png" alt="BART Logo" width="800"/>
+
 ## Overview
 
 Bern AI in RadioTherapy (BART) is a one-day meeting on the 14th of March 2025, aiming to bring researchers together in the radiation oncology, medical physics and the AI engineering community. Our hope and objective is to attempt to update ourselves in the current state of the art and discuss upcoming trends breakthroughs in this field, so we foster better interaction with each other. 
@@ -22,7 +24,7 @@ The **Bern AI in Radiotherapy Symposium** aims to foster a collaborative environ
 
 ## Contact the Organizers
 
-To contact the organizers, please reach out to [Amith](/bart25/speakers/amith_kamath), [Robert](/bart25/speakers/robert_poel) or [Dr. Mauricio Reyes](/bart25/speakers/mauricio_reyes).
+To contact the organizers, please reach out to [Amith](/bart25/speakers/amith_kamath), [Robert](/bart25/speakers/robert_poel), [Dr. Sarah Bruningk](/bart25/speakers/sarah_bruningk), or [Dr. Mauricio Reyes](/bart25/speakers/mauricio_reyes).
 
 <!---
 ## Sponsors

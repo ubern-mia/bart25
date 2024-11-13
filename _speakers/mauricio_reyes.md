@@ -13,4 +13,4 @@ Prof. Reyes is currently an Associate Professor at the University of Bern, Switz
 
 In 2006 he joined the Medical Image Analysis group at the MEM Research Center as a postdoctoral fellow focusing on topics related to medical image analysis and statistical shape models for orthopaedic research. In 2008, he took over the lead of the Medical Image Analysis group at the Institute for Surgical Technology and Biomechanics, Switzerland. 
 
-Contact Dr. Mauricio Reyes [here](mailto:mauricio.reyes@med.unibe.ch).
+Contact Prof. Mauricio Reyes [here](mailto:mauricio.reyes@med.unibe.ch).
