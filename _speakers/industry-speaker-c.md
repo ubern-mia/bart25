@@ -1,5 +1,5 @@
 ---
-name: Industry C
+name: Industry Speaker C
 first_name: Industry
 last_name: Speaker C
 links:
