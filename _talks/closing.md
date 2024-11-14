@@ -1,8 +1,8 @@
 ---
 name: Closing, Networking and Apero
 speakers:
-  - Amith Kamath
-  - Robert Poel
+  - Mauricio Reyes
+  - Sarah Brueningk
 categories:
   - Information
 ---

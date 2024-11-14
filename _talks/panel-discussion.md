@@ -5,8 +5,7 @@ speakers:
   - Keynote Speaker B
   - Keynote Speaker C
   - Industry Speaker A
-  - Industry Speaker B
-  - Industry Speaker C  
+  - Mauricio Reyes
 categories:
   - Panel
   - Industry
