@@ -1,12 +1,12 @@
 ---
-name: Keynote A
+name: Radiation Oncology Keynote
 speakers:
-  - Keynote Speaker A
+  - Jan Peeken
 categories:
   - Keynotes
 ---
 
-Keynote Description.
+TBA.
 
 [1] Reference A
 
