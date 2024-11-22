@@ -1,8 +1,8 @@
 ---
 name: Panel Discussion
 speakers:
-  - Keynote Speaker A
-  - Keynote Speaker B
+  - Jan Peeken
+  - Mark Gooding
   - Keynote Speaker C
   - Industry Speaker A
   - Mauricio Reyes

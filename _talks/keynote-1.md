@@ -6,7 +6,7 @@ categories:
   - Keynotes
 ---
 
-TBA.
+TBD.
 
 [1] Reference A
 
