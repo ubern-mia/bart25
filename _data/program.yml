@@ -17,7 +17,7 @@ days:
           - name: Industry Talk A
             time_start: "10:30"
             time_end: "11:10"
-          - name: Keynote B
+          - name: Medical Physics Keynote
             time_start: "11:30"
             time_end: "12:10"
           - name: Lunch Break
@@ -26,7 +26,7 @@ days:
           - name: Panel Discussion
             time_start: "14:00"
             time_end: "14:30"
-          - name: Keynote C
+          - name: Technical/AI Keynote
             time_start: "14:50"
             time_end: "15:30"
           - name: Closing, Networking and Apero
