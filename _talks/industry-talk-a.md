@@ -1,9 +1,7 @@
 ---
-name: Industry Talks
+name: Industry Talk A
 speakers:
   - Industry Speaker A
-  - Industry Speaker B
-  - Industry Speaker C
 categories:
   - Industry
 ---
