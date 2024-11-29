@@ -12,13 +12,11 @@ Register [here](https://forms.office.com/Pages/ResponsePage.aspx?id=ejgA1C8h6kOs
 
 This is an in-person event, with an emphasis on accessibility to early-career researchers and folks who are new to this and interested to get involved in this field. To facilitate this, we had a series of invited talks from all three major stakeholders: industry, academia, and clinics, to give an overview of recent advances, challenges, and efforts for sharing insights.
 
-<!---
 ## Call for Abstracts
 
-We are pleased to announce the **Bern AI in Radiotherapy Symposium** and invite researchers, clinicians, and students to submit their abstracts. This symposium aims to explore and discuss the latest advancements and challenges in the application of artificial intelligence (AI) in radiotherapy. We welcome abstracts related to, but not limited to, AI-driven treatment planning, automated organ segmentation, predictive modeling, image-guided radiotherapy, and patient-specific quality assurance. 
+We are pleased to announce the **Bern AI in Radiotherapy Symposium** and invite researchers, clinicians, and students to [submit their abstracts](/bart25/submission). This symposium aims to explore and discuss the latest advancements and challenges in the application of artificial intelligence (AI) in radiotherapy. We welcome abstracts related to, but not limited to, AI-driven treatment planning, automated organ segmentation, predictive modeling, image-guided radiotherapy, and patient-specific quality assurance. 
 
-The abstract should provide a concise summary of your research, including the purpose of the study, the methodology used, the key findings, and the significance of the results. This is a great opportunity to share your work with a diverse audience, gain valuable feedback, and network with experts in the field. We look forward to your contributions to this exciting event! Submission deadline and CMT link TBD.
--->
+The abstract should provide a concise summary of your research, including the purpose of the study, the methodology used, the key findings, and the significance of the results. This is a great opportunity to share your work with a diverse audience, gain valuable feedback, and network with experts in the field. We look forward to your contributions to this exciting event!
 
 ## Motivation
 
@@ -27,6 +25,12 @@ The **Bern AI in Radiotherapy Symposium** aims to foster a collaborative environ
 ## Contact the Organizers
 
 To contact the organizers, please reach out to [Amith](/bart25/speakers/amith_kamath), [Robert](/bart25/speakers/robert_poel), [Dr. Sarah Brueningk](/bart25/speakers/sarah_brueningk), or [Dr. Mauricio Reyes](/bart25/speakers/mauricio_reyes).
+
+## Sponsors
+
+We would like to gratefully acknowledge our sponsors (more updates to come here soon!) without whom this event would not be possible.
+
+<img src="/assets/images/mvub_logo.png" alt="MVUB" width="200"/> 
 
 <!---
 ## Sponsors

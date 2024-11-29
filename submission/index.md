@@ -18,4 +18,4 @@ Abstracts are strictly one page long (a second page may only contain the referen
 
 ## Presentation Format
 
-Authors of accepted abstracts are please requested to email a 4 minute video describing their work to the organizers ([Amith](/bart25/speakers/amith_kamath), [Robert](/bart25/speakers/robert_poel), [Dr. Brueningk](/bart25/speakers/sarah_brueningk) and [Dr. Mauricio Reyes](/bart25/speakers/mauricio_reyes)) by the 28th of February, 2025. Please reach out to the organizers for any questions about this.
+Authors of accepted abstracts will be notified by the 15th of February of the presentation format. 
