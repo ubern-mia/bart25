@@ -1,5 +1,5 @@
 ---
-name: Industry Talk C
+name: Industry Talk C / Poster Session
 speakers:
   - Industry Speaker C
 categories:

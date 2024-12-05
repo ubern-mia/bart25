@@ -68,7 +68,7 @@ conference:
         relative_url: /talks/
       - name: Speakers
         relative_url: /speakers/
-      - name: Poster Call
+      - name: Call for Abstracts
         relative_url: /submission/
       - name: Location
         relative_url: /location/
