@@ -28,7 +28,7 @@ To contact the organizers, please reach out to [Amith](/bart25/speakers/amith_ka
 
 We would like to gratefully acknowledge our sponsors (more updates to come here soon!) without whom this event would not be possible.
 
-<img src="/bart25/assets/images/mvub_logo.png" alt="MVUB" width="200"/> 
+<img src="/bart25/assets/images/mvub_logo.png" alt="MVUB" width="200"/> <img src="/bart25/assets/images/artorg-logo-transparent.png" alt="ARTORG" width="200"/> <img src="/bart25/assets/images/inse-logo.png" alt="Inselspital Bern" width="200"/> 
 
 <!---
 ## Sponsors

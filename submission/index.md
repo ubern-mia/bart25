@@ -20,4 +20,4 @@ Abstracts are strictly one page long (with a maximum of 500 words and one figure
 
 ## Travel grants for students and Poster Awards
 
-We have two poster awards, and also have limited travel grants available, mainly for students who cannot otherwise get funding support for traveling to Bern. Please indicate in your submission email about the need for this support. We will only be able to support a small number of applications, and hence early submissions are appreciated!
+We have two poster awards, and also have limited travel grants available, mainly for students who cannot otherwise get funding support for traveling to Bern. Please indicate in your submission email about the need for this support. We will only be able to support a small number of travel grant applications, and will process your requests on a first-come-first-serve basis!
