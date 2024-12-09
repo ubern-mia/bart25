@@ -10,7 +10,7 @@ layout: home
 
 This is an in-person event, with an emphasis on accessibility to early-career researchers and folks who are new to this and interested to get involved in this field. To facilitate this, we had a series of invited talks from all three major stakeholders: industry, academia, and clinics, to give an overview of recent advances, challenges, and efforts for sharing insights.
 
-## Registration
+## [Registration](https://forms.office.com/Pages/ResponsePage.aspx?id=ejgA1C8h6kOsf3eqEteXfuKom6WeIf9HlWz4CDgAbhdUMjNIRzc1SzNIT0hPT085RVhIOEZCMjJRVi4u))
 
 Register [here](https://forms.office.com/Pages/ResponsePage.aspx?id=ejgA1C8h6kOsf3eqEteXfuKom6WeIf9HlWz4CDgAbhdUMjNIRzc1SzNIT0hPT085RVhIOEZCMjJRVi4u). There is no registration fee; we have up to 100 spots to take; we will close registration as soon as we hit this limit.
 
