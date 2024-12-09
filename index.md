@@ -8,7 +8,7 @@ layout: home
 
 **Bern AI in Radiotherapy (BART) Symposium** is a one-day meeting on the 14th of March 2025, aiming to bring researchers together in the radiation oncology, medical physics and the AI engineering community. BART aims to foster a collaborative environment that bridges the gap between technology and healthcare. We believe that artificial intelligence holds immense potential in revolutionizing radiotherapy, making treatments more precise, personalized, and efficient. By bringing together researchers, clinicians, and students, we aim to facilitate the exchange of innovative ideas, latest research findings, and practical challenges faced in the integration of AI in radiotherapy. Our hope and objective is to attempt to update ourselves in the current state of the art and discuss upcoming trends breakthroughs in this field, so we foster better interaction with each other. 
 
-This is an in-person event, with an emphasis on accessibility to early-career researchers and folks who are new to this and interested to get involved in this field. To facilitate this, we had a series of invited talks from all three major stakeholders: industry, academia, and clinics, to give an overview of recent advances, challenges, and efforts for sharing insights.
+This is an in-person event, with an emphasis on accessibility to early-career researchers and folks who are new to this and interested to get involved in this field. To facilitate this, we have a series of [invited talks](/bart25/program) from all three major stakeholders: industry, academia, and clinics, to give an overview of recent advances, challenges, and efforts for sharing insights.
 
 ## [Registration](https://forms.office.com/Pages/ResponsePage.aspx?id=ejgA1C8h6kOsf3eqEteXfuKom6WeIf9HlWz4CDgAbhdUMjNIRzc1SzNIT0hPT085RVhIOEZCMjJRVi4u)
 
@@ -16,7 +16,7 @@ Register [here](https://forms.office.com/Pages/ResponsePage.aspx?id=ejgA1C8h6kOs
 
 ## Call for Abstracts, travel grants and awards
 
-We are pleased to invite researchers, clinicians, and students to [submit their abstracts](/bart25/submission). This symposium aims to explore and discuss the latest advancements and challenges in the application of artificial intelligence (AI) in radiotherapy. We welcome abstracts related to, but not limited to, AI-driven treatment planning, automated segmentation, predictive modeling, image-guided radiotherapy, and patient-specific quality assurance. 
+We are pleased to invite researchers, clinicians, and students to [submit their abstracts](/bart25/submission) (deadline: February 1st, AoE). This symposium aims to explore and discuss the latest advancements and challenges in the application of artificial intelligence (AI) in radiotherapy. We welcome abstracts related to, but not limited to, AI-driven treatment planning, automated segmentation, predictive modeling, image-guided radiotherapy, and patient-specific quality assurance. 
 
 We offer two poster awards, and limited travel grants for students in need of support. We will only be able to support a small number of travel grant applications, and will process your requests on a first-come-first-serve basis!
 

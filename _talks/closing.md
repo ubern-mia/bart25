@@ -1,5 +1,5 @@
 ---
-name: Closing, Networking and Apero
+name: Networking, Poster Presentations and Apero
 speakers:
   - Mauricio Reyes
   - Sarah Brueningk

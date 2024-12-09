@@ -41,6 +41,6 @@ days:
           - name: Panel Discussion
             time_start: "14:30"
             time_end: "15:00"
-          - name: Closing, Networking and Apero
+          - name: Networking, Poster Presentations and Apero
             time_start: "15:00"
             time_end: "17:00"

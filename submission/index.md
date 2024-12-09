@@ -4,7 +4,7 @@ layout: submission
 
 # Call for  Abstracts
 
-We welcome your short 500 word + one figure abstracts, which should provide a concise summary of your research, including the purpose of the study, the methodology used, the key findings, and the significance of the results. This is a great opportunity to share your work with a diverse audience, gain valuable feedback, and network with experts in the field. We look forward to your contributions to this event!
+We welcome your short 500 word + one figure abstracts, which should provide a concise summary of your research, including the purpose of the study, the methodology used, the key findings, and the significance of the results.  We welcome abstracts related to, but not limited to, AI-driven treatment planning, automated segmentation, predictive modeling, image-guided radiotherapy, and patient-specific quality assurance. This is a great opportunity to share your work with a diverse audience, gain valuable feedback, and network with experts in the field. We look forward to your contributions to this event! For more information, see [our program](/bart25/program). 
 
 Acceptance and selection will be based on how well it matches the theme of the symposium and decisions will be made by the organizers. We will have a light peer-review with an objective score, however, written review feedback cannot be shared.
 
