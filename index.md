@@ -18,7 +18,7 @@ Register [here](https://forms.office.com/Pages/ResponsePage.aspx?id=ejgA1C8h6kOs
 
 We are pleased to invite researchers, clinicians, and students to [submit their abstracts](/bart25/submission). This symposium aims to explore and discuss the latest advancements and challenges in the application of artificial intelligence (AI) in radiotherapy. We welcome abstracts related to, but not limited to, AI-driven treatment planning, automated segmentation, predictive modeling, image-guided radiotherapy, and patient-specific quality assurance. 
 
-We offer two poster awards, and limited travel grants for students in need of support. Please consider submitting early to be considered for these grants! 
+We offer two poster awards, and limited travel grants for students in need of support. We will only be able to support a small number of travel grant applications, and will process your requests on a first-come-first-serve basis!
 
 ## Contact the Organizers
 
