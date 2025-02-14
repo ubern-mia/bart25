@@ -28,4 +28,4 @@ To contact the organizers, please reach out to [Amith](/bart25/speakers/amith_ka
 
 We would like to gratefully acknowledge our sponsors without whom this event would not be possible.
 
-<img src="/bart25/assets/images/mvub-logo.png" alt="MVUB" width="200"/> <img src="/bart25/assets/images/artorg-logo-transparent.png" alt="ARTORG" width="200"/> <img src="/bart25/assets/images/insel-logo.png" alt="Inselspital Bern" width="200"/> <img src="/bart25/assets/images/kaiko-logo.png" alt="KAIKO.AI" width="200"/> <img src="/bart25/assets/images/mvision-logo.png" alt="MVision" width="200"/> s
+<img src="/bart25/assets/images/mvub-logo.png" alt="MVUB" width="200"/> <img src="/bart25/assets/images/artorg-logo-transparent.png" alt="ARTORG" width="200"/> <img src="/bart25/assets/images/insel-logo.png" alt="Inselspital Bern" width="200"/> <img src="/bart25/assets/images/kaiko-logo.png" alt="KAIKO.AI" width="200"/> <img src="/bart25/assets/images/mvision-logo.png" alt="MVision" width="200"/> <img src="/bart25/assets/images/snf-logo.png" alt="SNSF" width="200"/> 
