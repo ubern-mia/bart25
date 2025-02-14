@@ -1,9 +1,9 @@
 ---
 name: Young Researcher Talks
 speakers:
-  - Amith Kamath
+  - Robert Poel
 categories:
-  - Industry
+  - Student
 ---
 
 This is a short session where selected student projects are invited to present in a 10 minute talk along with dedicated time for questions and answers.

@@ -1,10 +1,9 @@
 ---
-name: Networking, Poster Presentations and Apero
+name: Networking, Poster Awards and Apero
 speakers:
   - Mauricio Reyes
-  - Sarah Brueningk
 categories:
   - Information
 ---
 
-TBD - announcements shortly.
+Closing the event with poster prize announcements, apero and networking.
