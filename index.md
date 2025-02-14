@@ -26,17 +26,6 @@ To contact the organizers, please reach out to [Amith](/bart25/speakers/amith_ka
 
 ## Sponsors
 
-We would like to gratefully acknowledge our sponsors (more updates to come here soon!) without whom this event would not be possible.
-
-<img src="/bart25/assets/images/mvub-logo.png" alt="MVUB" width="200"/> <img src="/bart25/assets/images/artorg-logo-transparent.png" alt="ARTORG" width="200"/> <img src="/bart25/assets/images/insel-logo.png" alt="Inselspital Bern" width="200"/> 
-
-<!---
-## Sponsors
-
 We would like to gratefully acknowledge our sponsors without whom this event would not be possible.
 
-<img src="/assets/images/mvub_logo.png" alt="MVUB" width="200"/> <img src="/assets/images/ccmt_logo.jpeg" alt="CCMT" width="200"/> <img src="/assets/images/mathworks-logo.png" alt="MathWorks" width="200"/> <img src="/assets/images/varian-logo.jpg" alt="MVUB" width="200"/> 
-
-We acknowledge the MICCAI Society for endorsing this event as well.
-<img src="/2023/assets/images/MICCAI_logo.jpeg" alt="MICCAI" width="200"/>
--->
+<img src="/bart25/assets/images/mvub-logo.png" alt="MVUB" width="200"/> <img src="/bart25/assets/images/artorg-logo-transparent.png" alt="ARTORG" width="200"/> <img src="/bart25/assets/images/insel-logo.png" alt="Inselspital Bern" width="200"/> <img src="/bart25/assets/images/kaiko-logo.png" alt="KAIKO.AI" width="200"/> <img src="/bart25/assets/images/mvision-logo.png" alt="MVision" width="200"/> s

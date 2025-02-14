@@ -1,9 +1,10 @@
 ---
-name: Opening and Registration
+name: Registration
 speakers:
   - Amith Kamath
+  - Robert Poel  
 categories:
   - Information
 ---
 
-Setting the stage for the day, introducing the agenda, announcements, sponsors, and logistics for the program. 
+Getting you all badges and ensuring you've got enough time to reach UniS from the train station or wherever you are traveling from! 

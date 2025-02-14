@@ -5,7 +5,7 @@ days:
     rooms:
       - name: Horsaal
         talks:
-          - name: Opening and Registration
+          - name: Registration
             time_start: "09:00"
             time_end: "09:20"
           - name: Introduction and Welcome
