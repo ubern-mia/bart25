@@ -3,8 +3,8 @@ name: Panel Discussion
 speakers:
   - Jan Peeken
   - Mark Gooding
-  - Keynote Speaker C
-  - Industry Speaker A
+  - Stephanie Tanadini-Lang
+  - KAIKO
   - Mauricio Reyes
 categories:
   - Panel
