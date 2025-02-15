@@ -7,17 +7,17 @@ days:
         talks:
           - name: Registration
             time_start: "09:00"
-            time_end: "09:20"
+            time_end: "09:15"
           - name: Introduction and Welcome
-            time_start: "09:20"
-            time_end: "09:30"
+            time_start: "09:15"
+            time_end: "09:20"
           - name: Radiation Oncology Keynote
-            time_start: "09:30"
-            time_end: "10:10"
+            time_start: "09:20"
+            time_end: "10:00"
           - name: Industry Talk
-            time_start: "10:10"
+            time_start: "10:00"
             time_end: "10:30"
-          - name: Coffee Break AM
+          - name: Coffee Break
             time_start: "10:30"
             time_end: "11:00"
           - name: Medical Physics Keynote
@@ -25,22 +25,19 @@ days:
             time_end: "11:40"
           - name: Young Researcher Talks
             time_start: "11:40"
-            time_end: "12:00"
+            time_end: "12:20"
           - name: Lunch Break
-            time_start: "12:00"
-            time_end: "13:00"
+            time_start: "12:20"
+            time_end: "13:20"
           - name: Technical/AI Keynote
-            time_start: "13:00"
-            time_end: "13:40"
-          - name: Flash Talks
-            time_start: "13:40"
+            time_start: "13:20"
             time_end: "14:00"
-          - name: Coffee Break PM
+          - name: Panel Discussion
             time_start: "14:00"
             time_end: "14:30"
-          - name: Panel Discussion
+          - name: Flash Talks
             time_start: "14:30"
             time_end: "15:00"
           - name: Networking, Poster Awards and Apero
             time_start: "15:00"
-            time_end: "17:00"
+            time_end: "16:30"
