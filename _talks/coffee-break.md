@@ -1,5 +1,5 @@
 ---
-name: Coffee Break PM
+name: Coffee Break
 speakers:
 categories:
   - Information
