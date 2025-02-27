@@ -10,15 +10,15 @@ layout: home
 
 This is an in-person event, with an emphasis on accessibility to early-career researchers and folks who are new to this and interested to get involved in this field. To facilitate this, we have a series of [invited talks](/bart25/program) from all three major stakeholders: industry, academia, and clinics, to give an overview of recent advances, challenges, and efforts for sharing insights.
 
-## [Registration](https://forms.office.com/Pages/ResponsePage.aspx?id=ejgA1C8h6kOsf3eqEteXfuKom6WeIf9HlWz4CDgAbhdUMjNIRzc1SzNIT0hPT085RVhIOEZCMjJRVi4u)
+## [Registration]
 
-Register [here](https://forms.office.com/Pages/ResponsePage.aspx?id=ejgA1C8h6kOsf3eqEteXfuKom6WeIf9HlWz4CDgAbhdUMjNIRzc1SzNIT0hPT085RVhIOEZCMjJRVi4u). There is no registration fee; we have up to 100 spots to take; we will close registration as soon as we hit this limit.
+We have reached capacity, and unfortunately cannot take more registrations. We thank you for your interest! all 100 spots are taken.
 
 ## Call for Abstracts, travel grants and awards
 
-We are pleased to invite researchers, clinicians, and students to [submit their abstracts](/bart25/submission) (deadline: February 1st, AoE). This symposium aims to explore and discuss the latest advancements and challenges in the application of artificial intelligence (AI) in radiotherapy. We welcome abstracts related to, but not limited to, AI-driven treatment planning, automated segmentation, predictive modeling, image-guided radiotherapy, and patient-specific quality assurance. 
+This symposium aims to explore and discuss the latest advancements and challenges in the application of artificial intelligence (AI) in radiotherapy. We welcome abstracts related to, but not limited to, AI-driven treatment planning, automated segmentation, predictive modeling, image-guided radiotherapy, and patient-specific quality assurance. 
 
-We offer two poster awards, and limited travel grants for students in need of support. We will only be able to support a small number of travel grant applications, and will process your requests on a first-come-first-serve basis!
+We offer a "best poster award", and will share more details about this during the symposium.
 
 ## Contact the Organizers
 
