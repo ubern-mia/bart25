@@ -1,15 +1,9 @@
 ---
-name: Radiation Oncology Keynote
+name: Artificial Intelligence in Radiation Oncology: The physician‘s perspective
 speakers:
   - Jan Peeken
 categories:
   - Keynotes
 ---
 
-TBD.
-
-[1] Reference A
-
-<!--- 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUl9bvLMDsw?si=_i0TxQtl0TTkZLSe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
--->
+In this talk, Jan Peeken will connect early evidence on medical imaging risk stratification from the radiomics era with its challenges in clinical translation and the emergence of novel approaches, including foundation models. Beyond image analysis, the discussion will also explore the transformative potential of large language models in both clinical practice and scientific research within radiation oncology.
