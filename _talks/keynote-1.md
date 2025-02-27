@@ -1,5 +1,5 @@
 ---
-name: Artificial Intelligence in Radiation Oncology: The physician‘s perspective
+name: Artificial Intelligence in Radiation Oncology-The physician‘s perspective
 speakers:
   - Jan Peeken
 categories:

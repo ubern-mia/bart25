@@ -11,7 +11,7 @@ days:
           - name: Introduction and Welcome
             time_start: "09:15"
             time_end: "09:20"
-          - name: Radiation Oncology Keynote
+          - name: Artificial Intelligence in Radiation Oncology-The physician‘s perspective
             time_start: "09:20"
             time_end: "10:00"
           - name: Industry Talk
@@ -20,7 +20,7 @@ days:
           - name: Coffee Break
             time_start: "10:30"
             time_end: "11:00"
-          - name: Medical Physics Keynote
+          - name: Beyond human limits? AI as a partner in medical physics and radiation oncology
             time_start: "11:00"
             time_end: "11:40"
           - name: Young Researcher Talks
@@ -29,7 +29,7 @@ days:
           - name: Lunch Break
             time_start: "12:20"
             time_end: "13:20"
-          - name: Technical/AI Keynote
+          - name: An ambitious vision for the future of AI in Radiotherapy
             time_start: "13:20"
             time_end: "14:00"
           - name: Panel Discussion
