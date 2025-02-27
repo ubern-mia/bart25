@@ -119,10 +119,10 @@ conference:
         color: info
       - name: Keynotes
         color: warning
-      - name: Industry
-        color: secondary
       - name: Panel
         color: success
+      - name: Student
+        color: secondary        
 
   speakers:
     show_firstname: true

@@ -9,7 +9,6 @@ speakers:
   - Mauricio Reyes
 categories:
   - Panel
-  - Industry
 ---
 
 This panel discussion features experts from all the key areas within radiotherapy coming together to discuss challenges, opportunities and the future of this fascinating area!
