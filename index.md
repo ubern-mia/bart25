@@ -10,13 +10,13 @@ layout: home
 
 This is an in-person event, with an emphasis on accessibility to early-career researchers and folks who are new to this and interested to get involved in this field. To facilitate this, we have a series of [invited talks](/bart25/program) from all three major stakeholders: industry, academia, and clinics, to give an overview of recent advances, challenges, and efforts for sharing insights.
 
-## [Registration]
+## Registration
 
-We have reached capacity, and unfortunately cannot take more registrations. We thank you for your interest! all 100 spots are taken.
+We have reached capacity (100 participants) and cannot take more registrations at this moment. We thank you for your participation and interest!
 
-## Call for Abstracts, travel grants and awards
+## Student presentations, flash talks and awards
 
-This symposium aims to explore and discuss the latest advancements and challenges in the application of artificial intelligence (AI) in radiotherapy. We welcome abstracts related to, but not limited to, AI-driven treatment planning, automated segmentation, predictive modeling, image-guided radiotherapy, and patient-specific quality assurance. 
+This symposium aims to provide a platform for students and early career researchers to present their work on advancements and challenges in the application of artificial intelligence (AI) in radiotherapy. The program includes three presentations (of 10 minutes each) and eight flash talks (of 3 minutes each) on topics ranging from AI-driven treatment planning, automated segmentation, predictive modeling, image-guided radiotherapy, and patient-specific quality assurance.
 
 We offer a "best poster award", and will share more details about this during the symposium.
 
